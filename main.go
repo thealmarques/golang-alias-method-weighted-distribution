@@ -7,7 +7,7 @@ import (
 
 /**
 * Cost:
-* - Preprocssing O(n)
+* - Preprocessing O(n)
 * - Generate probability O(1)
  */
 func main() {
